@@ -20,7 +20,7 @@ Key features:
 
 ## App Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## Prerequisites
 
