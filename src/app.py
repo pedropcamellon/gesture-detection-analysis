@@ -50,7 +50,7 @@ def load_recognizer():
         )
         options = vision.GestureRecognizerOptions(
             base_options=base_options,
-            running_mode=vision.RunningMode.IMAGE,  # Changed from VIDEO to IMAGE
+            running_mode=vision.RunningMode.IMAGE,
             num_hands=1,
             min_hand_detection_confidence=0.5,
             min_tracking_confidence=0.5,
