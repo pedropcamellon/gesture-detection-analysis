@@ -18,6 +18,10 @@ Key features:
 - MediaPipe
 - Python
 
+## App Screenshot
+
+![App Screenshot](screenshot.png)
+
 ## Prerequisites
 
 The application requires the MediaPipe Gesture Recognizer model. Download it using:
